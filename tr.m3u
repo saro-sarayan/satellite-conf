@@ -1,23 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="ATV" group-title="ULUSAL",ATV
+#EXTINF:-1 tvg-name="TR: TRT1 HD" group-title="ULUSAL",TR: TRT1 HD
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
-#EXTINF:-1 tvg-name="KANAL D" group-title="ULUSAL",KANAL D
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
+#EXTINF:-1 tvg-name="TR: ATV HD" group-title="ULUSAL",TR: ATV HD
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="STAR TV" group-title="ULUSAL",STAR TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
+#EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 (1080p)
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+#EXTINF:-1 tvg-name="TR: SHOW HD" group-title="ULUSAL",TR: SHOW HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
+#EXTINF:-1 tvg-name="TR: STAR TV HD" group-title="ULUSAL",TR: STAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+#EXTINF:-1 tvg-name="TR: NOW TV HD" group-title="ULUSAL",TR: NOW TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+#EXTINF:-1 tvg-name="TR: KANAL 7" group-title="ULUSAL",TR: KANAL 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
+#EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 #EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="MUZIK",POWER TURK
