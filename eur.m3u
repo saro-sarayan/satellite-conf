@@ -22,29 +22,29 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
-#EXTINF:-1 tvg-name="TR: KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUZIK",TR: KRAL POP
+#EXTINF:-1 tvg-name="TR: KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUSIC",TR: KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TR: PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUZIK",TR: POWER TURK
+#EXTINF:-1 tvg-name="TR: PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUSIC",TR: POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD",Al Jadeed (1080p)
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" group-title="LB",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb@SD",Al Manar (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlManar.lb@SD" group-title="LB",Al Manar (576p) [Not 24/7]
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD",Al Mayadeen (576p)
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" group-title="LB",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArabicaTV.lb@SD",Arabica TV (720p)
+#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" group-title="LB",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVLebanon.lb@SD",MTV Lebanon (1080p)
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" group-title="LB",MTV Lebanon (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-id="OTV.lb@SD",OTV (1080p)
+#EXTINF:-1 tvg-id="OTV.lb@SD" group-title="LB",OTV (1080p)
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHadath.sa@SD",Al Hadath (1080p)
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="LB",Al Hadath (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="LB",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am@SD",Armenia 1
+#EXTINF:-1 tvg-id="Armenia1.am@SD" group-title="AM",Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia2.am@SD",Armenia 2
+#EXTINF:-1 tvg-id="Armenia2.am@SD" group-title="AM",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 tvg-name="XXX: Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Gold HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
@@ -196,12 +196,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49109
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49110
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="SPORT",EUROSPORT 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49111
-#EXTINF:-1 tvg-name="CH: 95" group-title="MALUM YAYINLAR EROTiK",CH95
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49112
 #EXTINF:-1 tvg-name="EXTREME SPORT" group-title="SPORT",EXTREME SPORT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49113
-#EXTINF:-1 tvg-name="CLASSICA" group-title="MUSIC",CLASSICA
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49121
 #EXTINF:-1 tvg-name="DELUXE" group-title="MUSIC",DELUXE LOUNGE
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49122
 #EXTINF:-1 tvg-name="MAGIC" group-title="MUSIC",MAGIC
@@ -226,12 +222,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49131
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49132
 #EXTINF:-1 tvg-name="DSTV" group-title="MUSIC",DSTV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49133
-#EXTINF:-1 tvg-name="FOLK" group-title="MUSIC",FOLK
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49135
-#EXTINF:-1 tvg-name="FEN FOLK" group-title="MUSIC",FEN FOLK
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49136
-#EXTINF:-1 tvg-name="TIANKOV ORIENT" group-title="MUSIC",TIANKOV ORIENT
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49139
 #EXTINF:-1 tvg-name="DISNEY" group-title="CARTOON",DISNEY CHANNEL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49140
 #EXTINF:-1 tvg-name="DISNEY Jr" group-title="CARTOON",DISNEY Jr.
@@ -292,19 +282,25 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48948
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48946
 #EXTINF:-1 tvg-name="BABY TV TR" group-title="CARTOON",BABY TV TR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48945
-#EXTINF:-1 tvg-name="CH1" group-title="CARTOON",CH1
+#EXTINF:-1 tvg-name="CARTOON NETWORK TR" group-title="CARTOON",CARTOON NETWORK TR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944
-#EXTINF:-1 tvg-name="CH2" group-title="CARTOON",CH2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
-#EXTINF:-1 tvg-name="CH3" group-title="CARTOON",CH3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48942
-#EXTINF:-1 tvg-name="CH4" group-title="CARTOON",CH4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48941
-#EXTINF:-1 tvg-name="CH5" group-title="CARTOON",CH5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48940
-#EXTINF:-1 tvg-name="CH6" group-title="CARTOON",CH6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48939
-#EXTINF:-1 tvg-name="CH7" group-title="CARTOON",CH7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48938
-#EXTINF:-1 tvg-name="CH8" group-title="CARTOON",CH8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
+#EXTINF:-1 tvg-name="CH1" group-title="UNKNOWN",CH1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48936
+#EXTINF:-1 tvg-name="CH2" group-title="UNKNOWN",CH2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935
+#EXTINF:-1 tvg-name="CH3" group-title="UNKNOWN",CH3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48934
+#EXTINF:-1 tvg-name="CH4" group-title="UNKNOWN",CH4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48933
+#EXTINF:-1 tvg-name="CH5" group-title="UNKNOWN",CH5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48932
+#EXTINF:-1 tvg-name="CH6" group-title="UNKNOWN",CH6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48931
+#EXTINF:-1 tvg-name="CH7" group-title="UNKNOWN",CH7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48930
+#EXTINF:-1 tvg-name="CH8" group-title="UNKNOWN",CH8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
+#EXTINF:-1 tvg-name="CH9" group-title="UNKNOWN",CH9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48928
+#EXTINF:-1 tvg-name="CH10" group-title="UNKNOWN",CH10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48927
