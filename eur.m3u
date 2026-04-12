@@ -20,7 +20,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 #EXTINF:-1 tvg-name="TR: KANAL 7 HD" group-title="ULUSAL",TR: KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 #EXTINF:-1 tvg-name="TR: KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUSIC",TR: KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
