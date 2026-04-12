@@ -294,25 +294,37 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48909
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48908
 #EXTINF:-1 tvg-name="DOCU SCREEN" group-title="DOCUMENTARY",DOCU SCREEN
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48907
-#EXTINF:-1 tvg-name="DOCU SCREEN1" group-title="DOCUMENTARY",DOCU SCREEN1
+#EXTINF:-1 tvg-name="SINEMA 1001" group-title="MOVIE",SINEMA 1001
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48906
-#EXTINF:-1 tvg-name="DOCU SCREEN2" group-title="DOCUMENTARY",DOCU SCREEN2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905
-#EXTINF:-1 tvg-name="DOCU SCREEN3" group-title="DOCUMENTARY",DOCU SCREEN3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904
-#EXTINF:-1 tvg-name="DOCU SCREEN4" group-title="DOCUMENTARY",DOCU SCREEN4
+#EXTINF:-1 tvg-name="SPORSMART 2" group-title="SPORT",SPORSMART 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903
-#EXTINF:-1 tvg-name="DOCU SCREEN5" group-title="DOCUMENTARY",DOCU SCREEN5
+#EXTINF:-1 tvg-name="SPORSMART" group-title="SPORT",SPORTSMART
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
-#EXTINF:-1 tvg-name="DOCU SCREEN6" group-title="DOCUMENTARY",DOCU SCREEN6
+#EXTINF:-1 tvg-name="COSMO EN" group-title="MOVIE",COSMO EN
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48901
-#EXTINF:-1 tvg-name="DOCU SCREEN7" group-title="DOCUMENTARY",DOCU SCREEN7
+#EXTINF:-1 tvg-name="COSMO SPORTS" group-title="SPORTS",COSMO SPORTS
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
-#EXTINF:-1 tvg-name="DOCU SCREEN8" group-title="DOCUMENTARY",DOCU SCREEN8
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
-#EXTINF:-1 tvg-name="DOCU SCREEN9" group-title="DOCUMENTARY",DOCU SCREEN9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
-#EXTINF:-1 tvg-name="DOCU SCREEN10" group-title="DOCUMENTARY",DOCU SCREEN10
+#EXTINF:-1 tvg-name="TIVIBU SPOR" group-title="SPORT",TIVIBU SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897
-#EXTINF:-1 tvg-name="DOCU SCREEN11" group-title="DOCUMENTARY",DOCU SCREEN11
+#EXTINF:-1 tvg-name="TRT SPOR" group-title="SPORT",TRT SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896
+#EXTINF:-1,CH1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48895
+#EXTINF:-1,CH2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894
+#EXTINF:-1,CH3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48893
+#EXTINF:-1,CH4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48892
+#EXTINF:-1,CH5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48891
+#EXTINF:-1,CH6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48890
+#EXTINF:-1,CH7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48889
+#EXTINF:-1,CH8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
+#EXTINF:-1,CH9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48887
+#EXTINF:-1,CH10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48886
