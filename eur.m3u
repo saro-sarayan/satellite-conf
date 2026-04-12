@@ -274,23 +274,45 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48946
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48945
 #EXTINF:-1 tvg-name="CARTOON NETWORK TR" group-title="CARTOON",CARTOON NETWORK TR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48944
-#EXTINF:-1 tvg-name="CH1" group-title="UNKNOWN",CH1
+#EXTINF:-1 tvg-name="FILM SCREEN INT" group-title="MOVIE",FILM SCREEN INT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48916
-#EXTINF:-1 tvg-name="CH2" group-title="UNKNOWN",CH2
+#EXTINF:-1 tvg-name="SINEMA TV" group-title="MOVIE",SINEMA TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48915
-#EXTINF:-1 tvg-name="CH3" group-title="UNKNOWN",CH3
+#EXTINF:-1 tvg-name="SINEMA KOMEDI 2" group-title="MOVIE",SINEMA KOMEDI 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48914
-#EXTINF:-1 tvg-name="CH4" group-title="UNKNOWN",CH4
+#EXTINF:-1 tvg-name="SINEMA KOMEDI" group-title="MOVIE",SINEMA KOMEDI
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48913
-#EXTINF:-1 tvg-name="CH5" group-title="UNKNOWN",CH5
+#EXTINF:-1 tvg-name="SINEMA AILE 2" group-title="MOVIE",SINEMA AILE 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48912
-#EXTINF:-1 tvg-name="CH6" group-title="UNKNOWN",CH6
+#EXTINF:-1 tvg-name="SINEMA AILE" group-title="MOVIE",SINEMA AILE
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48911
-#EXTINF:-1 tvg-name="CH7" group-title="UNKNOWN",CH7
+#EXTINF:-1 tvg-name="SINEMA AKSIYON 2" group-title="MOVIE",SINEMA AKSIYON 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48910
-#EXTINF:-1 tvg-name="CH8" group-title="UNKNOWN",CH8
+#EXTINF:-1 tvg-name="SINEMA AKSIYON" group-title="MOVIE",SINEMA AKSIYON
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48909
-#EXTINF:-1 tvg-name="CH9" group-title="UNKNOWN",CH9
+#EXTINF:-1 tvg-name="SINEMA 2" group-title="MOVIE",SINEMA 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48908
-#EXTINF:-1 tvg-name="CH10" group-title="UNKNOWN",CH10
+#EXTINF:-1 tvg-name="DOCU SCREEN" group-title="DOCUMENTARY",DOCU SCREEN
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48907
+#EXTINF:-1 tvg-name="DOCU SCREEN1" group-title="DOCUMENTARY",DOCU SCREEN1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48906
+#EXTINF:-1 tvg-name="DOCU SCREEN2" group-title="DOCUMENTARY",DOCU SCREEN2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905
+#EXTINF:-1 tvg-name="DOCU SCREEN3" group-title="DOCUMENTARY",DOCU SCREEN3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904
+#EXTINF:-1 tvg-name="DOCU SCREEN4" group-title="DOCUMENTARY",DOCU SCREEN4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903
+#EXTINF:-1 tvg-name="DOCU SCREEN5" group-title="DOCUMENTARY",DOCU SCREEN5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
+#EXTINF:-1 tvg-name="DOCU SCREEN6" group-title="DOCUMENTARY",DOCU SCREEN6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48901
+#EXTINF:-1 tvg-name="DOCU SCREEN7" group-title="DOCUMENTARY",DOCU SCREEN7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
+#EXTINF:-1 tvg-name="DOCU SCREEN8" group-title="DOCUMENTARY",DOCU SCREEN8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
+#EXTINF:-1 tvg-name="DOCU SCREEN9" group-title="DOCUMENTARY",DOCU SCREEN9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
+#EXTINF:-1 tvg-name="DOCU SCREEN10" group-title="DOCUMENTARY",DOCU SCREEN10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897
+#EXTINF:-1 tvg-name="DOCU SCREEN11" group-title="DOCUMENTARY",DOCU SCREEN11
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896
