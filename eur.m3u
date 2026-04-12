@@ -46,6 +46,22 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia2.am@SD",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-name="XXX: B" group-title="MALUM YAYINLAR EROTiK",XXX: B
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48984
+#EXTINF:-1 tvg-name="XXX: A" group-title="MALUM YAYINLAR EROTiK",XXX: A
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48985
+#EXTINF:-1 tvg-name="XXX: R" group-title="MALUM YAYINLAR EROTiK",XXX: R
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48986
+#EXTINF:-1 tvg-name="XXX: T" group-title="MALUM YAYINLAR EROTiK",XXX: T
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48987
+#EXTINF:-1 tvg-name="XXX: P" group-title="MALUM YAYINLAR EROTiK",XXX: P
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48988
+#EXTINF:-1 tvg-name="XXX: Pen" group-title="MALUM YAYINLAR EROTiK",XXX: Pen
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48989
+#EXTINF:-1 tvg-name="XXX: Pent" group-title="MALUM YAYINLAR EROTiK",XXX: Pent
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48990
+#EXTINF:-1 tvg-name="XXX: Penthouse" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48991
 #EXTINF:-1 tvg-name="XXX: Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Gold HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
 #EXTINF:-1 tvg-name="XXX: Penthouse Reality TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Reality TV HD
@@ -94,6 +110,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
 #EXTINF:-1 tvg-name="XXX: XY mix" group-title="MALUM YAYINLAR EROTiK",XXX: XY mix
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
+#EXTINF:-1 tvg-name="CH: 0" group-title="MALUM YAYINLAR EROTiK",CH0
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013
 #EXTINF:-1 tvg-name="CH: 1" group-title="MALUM YAYINLAR EROTiK",CH1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49018
 #EXTINF:-1 tvg-name="CH: 2" group-title="MALUM YAYINLAR EROTiK",CH2
