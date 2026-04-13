@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TR: TRT1 HD" group-title="ULUSAL",TR: TRT1 HD
+#EXTINF:-1 tvg-name="TRT1 HD" group-title="TR",TRT1 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
-#EXTINF:-1 tvg-name="TR: ATV HD" group-title="ULUSAL",TR: ATV HD
+#EXTINF:-1 tvg-name="ATV HD" group-title="TR",ATV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
-#EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
+#EXTINF:-1 tvg-name="Kanal D HD" group-title="TR",Kanal D HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
-#EXTINF:-1 tvg-name="TR: SHOW HD" group-title="ULUSAL",TR: SHOW HD
+#EXTINF:-1 tvg-name="SHOW HD" group-title="TR",SHOW HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
-#EXTINF:-1 tvg-name="TR: STAR TV HD" group-title="ULUSAL",TR: STAR TV HD
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="TR",STAR TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
-#EXTINF:-1 tvg-name="TR: NOW TV HD" group-title="ULUSAL",TR: NOW TV HD
+#EXTINF:-1 tvg-name="NOW TV HD" group-title="TR",NOW TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
-#EXTINF:-1 tvg-name="TR: KANAL 7 HD" group-title="ULUSAL",TR: KANAL 7 HD
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="TR",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="TR",TV 8 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
-#EXTINF:-1 tvg-name="TR: KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUSIC",TR: KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUSIC",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TR: PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUSIC",TR: POWER TURK
+#EXTINF:-1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUSIC",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" group-title="LB",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
@@ -73,7 +73,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49053
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49054
 #EXTINF:-1 tvg-name="CINESTAR ACTION" group-title="MOVIE",CINESTAR ACTION
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49055
-#EXTINF:-1 tvg-name="DIZI TV" group-title="ULUSAL",DIZI TV
+#EXTINF:-1 tvg-name="DIZI TV" group-title="TR",DIZI TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49063
 #EXTINF:-1 tvg-name="FOOD NETWORK" group-title="DOCUMENTARY",FOOD NATWORK
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49064
@@ -149,7 +149,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
 #EXTINF:-1 tvg-name="Babes TV HD" group-title="EROTIC",Babes TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994
-#EXTINF:-1 tvg-name="BangU" group-title="MALUM YAYINLAR EROTiK",BangU
+#EXTINF:-1 tvg-name="BangU" group-title="EROTIC",BangU
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995
 #EXTINF:-1 tvg-name="Barely Legal" group-title="EROTIC",Barely Legal
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48996
@@ -229,7 +229,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49149
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49150
 #EXTINF:-1 tvg-name="DUCK TV" group-title="CARTOON",DUCK TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49151
-#EXTINF:-1 tvg-name="TRT 4K" group-title="ULUSAL",TRT 4K
+#EXTINF:-1 tvg-name="TRT 4K" group-title="TR",TRT 4K
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
 #EXTINF:-1 tvg-name="TLC" group-title="DOCUMENTARY",TLC BG
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48989
