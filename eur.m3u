@@ -297,5 +297,15 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49217
 #EXTINF:-1 tvg-name="BEIN SPORT 1" group-title="SPORT",BEIN SPORT 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
-#EXTINF:-1 tvg-id="Tabii Spor 2"  tvg-logo="https://androbjk34.serv00.net/png/tabii2.png" group-title="Spor",Tabii Spor 2
-https://ds.ayakkabiparti.lol/tabi2/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
+#EXTVLCOPT:network-caching=1000
+http://62.131.195.211:8086/4.ts
+#EXTINF:-1 tvg-name="NPO 1" group-title="YABANCITV",NPO 1
+#EXTVLCOPT:network-caching=1000
+http://62.131.195.211:8086/12.ts
+#EXTINF:-1 tvg-name="NPO 2" group-title="YABANCITV",NPO 2
+#EXTVLCOPT:network-caching=1000
+http://62.131.195.211:8087/20.ts
+#EXTINF:-1 tvg-name="Z SELECT" group-title="YABANCITV",Z SELECT
+#EXTVLCOPT:network-caching=1000
+http://62.131.195.211:8086/0.ts
