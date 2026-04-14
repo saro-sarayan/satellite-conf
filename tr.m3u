@@ -6,8 +6,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 #EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-name="TR: SHOW HD" group-title="ULUSAL",TR: SHOW HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
