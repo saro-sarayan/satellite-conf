@@ -65,6 +65,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49039
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49040
 #EXTINF:-1 tvg-name="FILMBOX" group-title="MOVIE",FILMBOX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49041
+#EXTINF:-1 tvg-name="ARENA ACTION" group-title="MOVIE",ARENA ACTION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49042
 #EXTINF:-1 tvg-name="AMC" group-title="MOVIE",AMC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49050
 #EXTINF:-1 tvg-name="AXN BLACK" group-title="MOVIE",AXN BLACK
@@ -117,8 +119,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49094
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49095
 #EXTINF:-1 tvg-name="AUTO CHANNEL1" group-title="SPORT",AUTO CHANNEL1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49051
-#EXTINF:-1 tvg-name="AUTO CHANNEL2" group-title="SPORT",AUTO CHANNEL2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49042
 #EXTINF:-1 tvg-name="AUTO CHANNEL" group-title="SPORT",AUTO CHANNEL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49098
 #EXTINF:-1 tvg-name="MOTOR SPORT" group-title="SPORT",MOTOR SPORT
