@@ -79,8 +79,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49055
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49063
 #EXTINF:-1 tvg-name="FOOD NETWORK" group-title="DOCUMENTARY",FOOD NATWORK
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49064
-#EXTINF:-1 tvg-name="THIS IS BULGARIA" group-title="DOCUMENTARY",THIS IS BULGARIA
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49070
 #EXTINF:-1 tvg-name="DISCOVERY" group-title="DOCUMENTARY",DISCOVERY
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49071
 #EXTINF:-1 tvg-name="ID" group-title="DOCUMENTARY",ID
@@ -121,7 +119,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49095
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49098
 #EXTINF:-1 tvg-name="MOTOR SPORT" group-title="SPORT",MOTOR SPORT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49099
-#EXTINF:-1 tvg-name="RING" group-title="SPORT",RING SPORT
+#EXTINF:-1 tvg-name="BTV ACTION" group-title="SPORT",BTV ACTION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49100
+#EXTINF:-1 tvg-name="RING" group-title="SPORT",RING
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49101
 #EXTINF:-1 tvg-name="DIEMA1" group-title="SPORT",DIEMA SPORT 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49102
