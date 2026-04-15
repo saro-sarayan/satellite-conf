@@ -91,24 +91,26 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49053
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49054
 #EXTINF:-1 tvg-name="CINESTAR ACTION" group-title="MOVIE",CINESTAR ACTION
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49055
-#EXTINF:-1 tvg-name="CINESTAR ACTION1" group-title="MOVIE",CINESTAR ACTION1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49056
-#EXTINF:-1 tvg-name="CINESTAR ACTION2" group-title="MOVIE",CINESTAR ACTION2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49057
-#EXTINF:-1 tvg-name="CINESTAR ACTION3" group-title="MOVIE",CINESTAR ACTION3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49058
-#EXTINF:-1 tvg-name="CINESTAR ACTION4" group-title="MOVIE",CINESTAR ACTION4
+#EXTINF:-1 tvg-name="CINEMANIA" group-title="MOVIE",CINEMANIA
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49059
-#EXTINF:-1 tvg-name="CINESTAR ACTION5" group-title="MOVIE",CINESTAR ACTION5
+#EXTINF:-1 tvg-name="NOSTALGIA" group-title="MOVIE",NOSTALGIA
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49060
-#EXTINF:-1 tvg-name="CINESTAR ACTION6" group-title="MOVIE",CINESTAR ACTION6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49061
-#EXTINF:-1 tvg-name="CINESTAR ACTION7" group-title="MOVIE",CINESTAR ACTION7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49062
 #EXTINF:-1 tvg-name="DIZI TV" group-title="TR",DIZI TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49063
-#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="DOCUMENTARY",FOOD NATWORK
+#EXTINF:-1 tvg-name="FOOD NETWORK7" group-title="DOCUMENTARY",FOOD NATWORK7
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49064
+#EXTINF:-1 tvg-name="FOOD NETWORK6" group-title="DOCUMENTARY",FOOD NATWORK6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49065
+#EXTINF:-1 tvg-name="FOOD NETWORK5" group-title="DOCUMENTARY",FOOD NATWORK5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49066
+#EXTINF:-1 tvg-name="FOOD NETWORK4" group-title="DOCUMENTARY",FOOD NATWORK4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49067
+#EXTINF:-1 tvg-name="FOOD NETWORK3" group-title="DOCUMENTARY",FOOD NATWORK3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49068
+#EXTINF:-1 tvg-name="FOOD NETWORK2" group-title="DOCUMENTARY",FOOD NATWORK2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49069
+#EXTINF:-1 tvg-name="FOOD NETWORK1" group-title="DOCUMENTARY",FOOD NATWORK1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49070
 #EXTINF:-1 tvg-name="DISCOVERY" group-title="DOCUMENTARY",DISCOVERY
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49071
 #EXTINF:-1 tvg-name="ID" group-title="DOCUMENTARY",ID
@@ -141,6 +143,12 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49086
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49089
 #EXTINF:-1 tvg-name="MUSEUM TV" group-title="DOCUMENTARY",MUSEUM TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49090
+#EXTINF:-1 tvg-name="MUSEUM TV1" group-title="DOCUMENTARY",MUSEUM TV1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49091
+#EXTINF:-1 tvg-name="MUSEUM TV2" group-title="DOCUMENTARY",MUSEUM TV2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49092
+#EXTINF:-1 tvg-name="MUSEUM TV3" group-title="DOCUMENTARY",MUSEUM TV3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49093
 #EXTINF:-1 tvg-name="FIGHT CLUB" group-title="SPORT",FIGHT CLUB
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49094
 #EXTINF:-1 tvg-name="DA VINCI" group-title="DOCUMENTARY",DA VINCI
