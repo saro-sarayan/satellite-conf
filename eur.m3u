@@ -331,27 +331,33 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
 http://62.131.195.211:8086/4.ts
 #EXTINF:-1 tvg-name="ERT WORLD" group-title="SPORT",ERT WORLD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48985
-#EXTINF:-1 group-title="Test",Test 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48979
-#EXTINF:-1 group-title="Test",Test 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48978
-#EXTINF:-1 group-title="Test",Test 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48977
-#EXTINF:-1 group-title="Test",Test 4
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48976
-#EXTINF:-1 group-title="Test",Test 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48975
-#EXTINF:-1 group-title="Test",Test 6
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48974
-#EXTINF:-1 group-title="Test",Test 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48973
-#EXTINF:-1 group-title="Test",Test 8
+#EXTINF:-1 tvg-name="ANT 1" group-title="SPORT",ANT 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48972
-#EXTINF:-1 group-title="Test",Test 9
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48971
-#EXTINF:-1 group-title="Test",Test 10
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48970
-#EXTINF:-1 group-title="Test",Test 11
+#EXTINF:-1 tvg-name="ERT 3" group-title="SPORT",ERT 3
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48969
-#EXTINF:-1 group-title="Test",Test 12
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48968
+#EXTINF:-1 tvg-name="ERT 2" group-title="SPORT",ERT 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48967
+#EXTINF:-1 tvg-name="ERT 1" group-title="SPORT",ERT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48965
+#EXTINF:-1 group-title="Test",Test 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48964
+#EXTINF:-1 group-title="Test",Test 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
+#EXTINF:-1 group-title="Test",Test 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48962
+#EXTINF:-1 group-title="Test",Test 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
+#EXTINF:-1 group-title="Test",Test 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48960
+#EXTINF:-1 group-title="Test",Test 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48959
+#EXTINF:-1 group-title="Test",Test 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48958
+#EXTINF:-1 group-title="SPORT",ANT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48957
+#EXTINF:-1 group-title="Test",Test 9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48956
+#EXTINF:-1 group-title="Test",Test 10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48955
+#EXTINF:-1 group-title="Test",Test 11
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
