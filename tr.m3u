@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TR: TRT1 HD" group-title="ULUSAL",TR: TRT1 HD
+#EXTINF:-1 tvg-name="TRT1 HD" group-title="ULUSAL",TRT1 HD
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
+#EXTINF:-1 tvg-id="ATV.tr@SD",ATV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-name="Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" group-title="ULUSAL", SHOW TV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
@@ -9,13 +11,13 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,TR: KANAL 7 HD
+#EXTINF:-1,KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="ULUSAL",TV 8 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="TR: KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUZIK",TR: KRAL POP
+#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TR: PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUZIK",TR: POWER TURK
+#EXTINF:-1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" group-title="MUZIK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
 #EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
@@ -677,8 +679,6 @@ http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" group-title="LB",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" group-title="LB",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb@SD" group-title="LB",MTV Lebanon (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="OTV.lb@SD" group-title="LB",OTV (1080p)
